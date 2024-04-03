@@ -11,6 +11,7 @@ const Service = () => {
     </div>
     <div className={`bg-[url('..${SerOne}')] w-1/2`}>
           <h2>hello</h2>
+          <h2>hello</h2>
     </div>
   </div>
   )
